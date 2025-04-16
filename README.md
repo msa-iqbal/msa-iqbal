@@ -96,22 +96,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:iqbal36940@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
   <a href="https://x.com/Muhammad36940/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
 
 ###
 
-<p align="left">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/msa-iqbal/count.svg?"  />
+</div>
 
 ###
