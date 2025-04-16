@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">It's a pleasure to have you here 😎  <br>I'm a full-stack Web Developer from Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
+<p align="left">It's a pleasure to have you here 😎  <br>I'm a full-stack Web Developer from Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, API-driven architectures, etc.</p>
 
 ###
 
@@ -75,38 +75,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=msa-iqbal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msa-iqbal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">🎯 Beyond the Code</h2>
-
-###
-
-<h6 align="left">🎮 Gamer at heart ━━━ 🎵 Music lover ━━━ 📚 Book enthusiast ━━━ 🏍️ Motorcycle adventurer</h6>
-
-###
-
-<h2 align="left">Let’s Connect</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
-  <a href="https://x.com/Muhammad36940/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=msa-iqbal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msa-iqbal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <p align="center">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Muhammad36940/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
