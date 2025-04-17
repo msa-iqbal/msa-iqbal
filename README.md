@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">It's a pleasure to have you here 𓍯𓂃𓏧♡ <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="12" height="12"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, API-driven architectures and others.</p>
+<p align="left">It's a pleasure to have you here 𓍯𓂃𓏧♡ <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="13" height="13"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
 
 ###
+
+Coding Tools I Rely On ››
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
@@ -75,7 +77,7 @@
 ###
 
 <details>
-<summary> You wanna know more about me? </summary>
+<summary> <strong>You wanna know more about me? </strong></summary>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -101,36 +103,50 @@
 🧠 Currently diving into new technologies — I believe every day is a learning opportunity.  
 📧 Reach me at: **<iqbal36940@gmail.com>**
 
----
+📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com/)  <br>
+⚡ Fun fact: I love photography, gaming, movies, singing, and exploring new places on my motorcycle. <br>
+😄 Pronouns: He / Him (but always happy to vibe with happy people!)
 
-📝 I write on my blog – [msa-iqbal.blogspot.com](https://msa-iqbal.blogspot.com/)  
-⚡ Fun fact: I love to photography, game, movie, sing, and explore new places on my motorcycle.
-😄 Pronouns: He / Happy People
+[![Flickr](https://img.shields.io/badge/Flickr-Photostream-blue?logo=flickr)](https://www.flickr.com/photos/spnkhn/) 
 
-<fieldset>
-  <legend>🛠️ Tools I Use Daily:</legend>
-  » VSCode <br>
-  » Postman <br>
-  » MongoDB Compass <br>
-  » Markdown Editors <br>
-  » Spotify <br>
-  » Docker <br>
-  » Adobe Photoshop <br>
-  » Adobe Illustrator <br>
-  » The Mighty Terminal with Oh My Zsh on Mac and Linux (Zorin OS)
- </fieldset>
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="15" height="15"> My Daily Toolkit
+
+- 💻 **Visual Studio Code** – For all things code  
+- 🔬 **Postman** – API testing made easy  
+- 🍃 **MongoDB Compass** – Exploring my NoSQL data visually  
+- 📝 **Markdown Editors** – Writing clean, simple docs  
+- 🎧 **Spotify** – Keeping the dev rhythm going  
+- 🐳 **Docker** – Building containerized environments  
+- 🎨 **Adobe Photoshop** – For stunning graphics  
+- ✒️ **Adobe Illustrator** – Precision in vector design  
+- 📈 **Rank Tracker** – Monitoring SEO performance  
+- 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO  
+- 💡 **Terminal w/ Oh My Zsh** – Supercharged CLI on macOS & Zorin OS
 
 ###
 
 <blockquote cite="https://msa-iqbal.blogspot.com/">
 As I believe,
 <div align="center">
-<em>The greater the challenge, the more patience and mental strength you must have. This makes life easier.</em>
+<em>❝ The greater the challenge, the more patience and mental strength you need — that’s what makes life easier. ❞</em>
 <p align="center">─── Muhammad S.A. Iqbal</p>
 </div>
 </blockquote>
 
 ###
+
+
+<p align="center">
+  <a href="https://x.com/Muhammad36940" target="_blank">
+    <img src="https://img.shields.io/badge/X-%40Muhammad36940-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://msa-iqbal.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blogspot-msa--iqbal-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogspot">
+  </a>
+  <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-msa--iqbal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ###
 
