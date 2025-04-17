@@ -15,9 +15,9 @@ Coding Tools I Rely On ››
   <img width="10" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="10" />
@@ -60,6 +60,10 @@ Coding Tools I Rely On ››
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="25" alt="netlify logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
 </div>
 
 ###
@@ -67,6 +71,8 @@ Coding Tools I Rely On ››
 <p align="left">I enjoy writing clean, efficient code, crafting intuitive user experiences, and solving real-world problems through technology. <strong>Currently, I'm open to work and employment opportunities.</strong></p>
 
 ###
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msa-iqbal/msa-iqbal/output/pacman-contribution-graph-dark.svg">
@@ -84,11 +90,10 @@ Coding Tools I Rely On ››
   <img src="https://streak-stats.demolab.com?user=msa-iqbal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msa-iqbal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 </details>
 <br>
 
-<h2 align="center">👨‍💻 A Bit More About Me</h2>
+<h2 align="center">A Bit More About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32"></h2>
 <h4 align="center">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa83/512.gif" alt="🪃" width="25" height="25"> Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" alt="🎻" width="25" height="25"> Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.gif" alt="🪄" width="25" height="25"> Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26f5/512.gif" alt="⛵" width="25" height="25"> Thrill-seeking traveler
 </h4>
@@ -103,24 +108,24 @@ Coding Tools I Rely On ››
 🧠 Currently diving into new technologies — I believe every day is a learning opportunity.  
 📧 Reach me at: **<iqbal36940@gmail.com>**
 
-📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com/)  <br>
+📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com/) <br>
 ⚡ Fun fact: I love photography, gaming, movies, singing, and exploring new places on my motorcycle. <br>
 😄 Pronouns: He / Him (but always happy to vibe with happy people!)
 
-[![Flickr](https://img.shields.io/badge/Flickr-Photostream-blue?logo=flickr)](https://www.flickr.com/photos/spnkhn/) 
+[![Flickr](https://img.shields.io/badge/Flickr-Photostream-blue?logo=flickr)](https://www.flickr.com/photos/spnkhn/)
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="15" height="15"> My Daily Toolkit
 
-- 💻 **Visual Studio Code** – For all things code  
-- 🔬 **Postman** – API testing made easy  
-- 🍃 **MongoDB Compass** – Exploring my NoSQL data visually  
-- 📝 **Markdown Editors** – Writing clean, simple docs  
-- 🎧 **Spotify** – Keeping the dev rhythm going  
-- 🐳 **Docker** – Building containerized environments  
-- 🎨 **Adobe Photoshop** – For stunning graphics  
-- ✒️ **Adobe Illustrator** – Precision in vector design  
-- 📈 **Rank Tracker** – Monitoring SEO performance  
-- 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO  
+- 💻 **Visual Studio Code** – For all things code
+- 🔬 **Postman** – API testing made easy
+- 🍃 **MongoDB Compass** – Exploring my NoSQL data visually
+- 📝 **Markdown Editors** – Writing clean, simple docs
+- 🎧 **Spotify** – Keeping the dev rhythm going
+- 🐳 **Docker** – Building containerized environments
+- 🎨 **Adobe Photoshop** – For stunning graphics
+- ✒️ **Adobe Illustrator** – Precision in vector design
+- 📈 **Rank Tracker** – Monitoring SEO performance
+- 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO
 - 💡 **Terminal w/ Oh My Zsh** – Supercharged CLI on macOS & Zorin OS
 
 ###
@@ -135,21 +140,6 @@ As I believe,
 
 ###
 
-
-<p align="center">
-  <a href="https://x.com/Muhammad36940" target="_blank">
-    <img src="https://img.shields.io/badge/X-%40Muhammad36940-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
-  </a>
-  <a href="https://msa-iqbal.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogspot-msa--iqbal-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogspot">
-  </a>
-  <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-msa--iqbal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-###
-
 <br><br>
 
 <p align="center">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
@@ -157,12 +147,20 @@ As I believe,
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://stackoverflow.com/users/28065117/msa-iqbal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="25" alt="stackoverflow logo"  />
+  </a>
   <a href="https://x.com/Muhammad36940/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/msaiqs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.behance.net/msa-iqbal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=plastic" height="25" alt="behance logo"  />
   </a>
 </div>
 
