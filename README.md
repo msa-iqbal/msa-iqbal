@@ -1,8 +1,8 @@
-<h2 align="center">𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍!</h2>
+<h1 align="center">𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32"></h1>
 
 ###
 
-<p align="left">It's a pleasure to have you here 😎  <br>I'm a full-stack Web Developer from Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, API-driven architectures, etc.</p>
+<p align="left">It's a pleasure to have you here 𓍯𓂃𓏧♡ <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="12" height="12"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, API-driven architectures and others.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">I enjoy writing clean, efficient code, crafting intuitive user experiences, and solving real-world problems through technology. Currently, I'm open to work and employment opportunities.</p>
+<p align="left">I enjoy writing clean, efficient code, crafting intuitive user experiences, and solving real-world problems through technology. <strong>Currently, I'm open to work and employment opportunities.</strong></p>
 
 ###
 
@@ -74,13 +74,67 @@
 
 ###
 
+<details>
+<summary> You wanna know more about me? </summary>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=msa-iqbal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msa-iqbal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+</details>
+<br>
+
+<h2 align="center">👨‍💻 A Bit More About Me</h2>
+<h4 align="center">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa83/512.gif" alt="🪃" width="25" height="25"> Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" alt="🎻" width="25" height="25"> Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.gif" alt="🪄" width="25" height="25"> Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26f5/512.gif" alt="⛵" width="25" height="25"> Thrill-seeking traveler
+</h4>
+
+#### I love to read books and listen to music
+
+♥️ I love programming and enjoy sharing what I learn.  
+💻 Most-used line of code: `console.log("hello world")`  
+🤝 Always open to connecting with creative minds and collaborating on innovative ideas.  
+💬 Ask me about: React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API development.  
+🤝 Open to work and employment opportunities (remote or relocation).  
+🧠 Currently diving into new technologies — I believe every day is a learning opportunity.  
+📧 Reach me at: **<iqbal36940@gmail.com>**
+
+---
+
+📝 I write on my blog – [msa-iqbal.blogspot.com](https://msa-iqbal.blogspot.com/)  
+⚡ Fun fact: I love to photography, game, movie, sing, and explore new places on my motorcycle.
+😄 Pronouns: He / Happy People
+
+<fieldset>
+  <legend>🛠️ Tools I Use Daily:</legend>
+  » VSCode <br>
+  » Postman <br>
+  » MongoDB Compass <br>
+  » Markdown Editors <br>
+  » Spotify <br>
+  » Docker <br>
+  » Adobe Photoshop <br>
+  » Adobe Illustrator <br>
+  » The Mighty Terminal with Oh My Zsh on Mac and Linux (Zorin OS)
+ </fieldset>
+
 ###
+
+<blockquote cite="https://msa-iqbal.blogspot.com/">
+As I believe,
+<div align="center">
+<em>The greater the challenge, the more patience and mental strength you must have. This makes life easier.</em>
+<p align="center">─── Muhammad S.A. Iqbal</p>
+</div>
+</blockquote>
+
+###
+
+###
+
+<br><br>
 
 <p align="center">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
 
