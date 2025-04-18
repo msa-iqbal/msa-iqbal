@@ -126,9 +126,9 @@ Coding Tools I Rely On ››
 - 🐳 **Docker** – Building containerized environments
 - 🎨 **Adobe Photoshop** – For stunning graphics
 - ✒️ **Adobe Illustrator** – Precision in vector design
-- 📈 **Rank Tracker** – Monitoring SEO performance
+- 📈 **SEO PowerSuite** – Monitoring SEO performance
 - 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO
-- 💡 **Terminal w/ Oh My Zsh** – Supercharged CLI on macOS & Zorin OS
+- 💡 **Terminal with Oh My Zsh** – Supercharged CLI on macOS & Pop!_OS
 
 ###
 
