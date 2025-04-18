@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">It's a pleasure to have you here 𓄿𓂉𓋴𓂀𓎆🤝. <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="13" height="13"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
+<p align="left">It's a pleasure to have you here 𓄿𓂉𓋴𓂀𓎆🤝 <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="13" height="13"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
 
 ###
 
