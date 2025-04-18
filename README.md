@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">It's a pleasure to have you here 𓍯𓂃𓏧♡ <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="13" height="13"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
+<p align="left">It's a pleasure to have you here 𓄿𓂉𓋴𓂀𓎆🤝. <br>I'm a full-stack Web Developer from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1e9.svg" alt="bangladesh-flag" width="13" height="13"> Bangladesh, focused on building modern, scalable, and high-performance web applications.<br><br>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
 
 ###
 
@@ -152,7 +152,7 @@ As I believe,
   <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/28065117/msa-iqbal" target="_blank">
+  <a href="https://stackoverflow.com/users/28065117/muhammad-s-a-iqbal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="25" alt="stackoverflow logo"  />
   </a>
   <a href="https://x.com/Muhammad36940/" target="_blank">
