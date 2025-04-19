@@ -160,8 +160,11 @@ As I believe,
   [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/spnkhn)
   [![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=social&logo=flickr)](https://www.flickr.com/photos/spnkhn)
   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=social&logo=behance)](https://www.behance.net/msa-iqbal)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@Spn-khan/videos)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/msa.iqs/)
+
+  <!--
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/) 
+  -->
 
 </div>
 
