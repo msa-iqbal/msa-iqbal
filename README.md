@@ -149,21 +149,20 @@ As I believe,
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/msa-iqbal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/28065117/muhammad-s-a-iqbal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=plastic" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://x.com/Muhammad36940/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/msaiqs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.behance.net/msa-iqbal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=plastic" height="25" alt="behance logo"  />
-  </a>
+  
+  [![Connect with me](https://img.shields.io/badge/Connect%20with%20me-Socials-000?style=for-the-badge&logo=github)](https://msa_iqbal.bio.link)
+  <br>
+
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=social&logo=stackoverflow)](https://stackoverflow.com/users/28065117/muhammad-s-a-iqbal)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode)](https://leetcode.com/u/msa-iqbal/)
+  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=social&logo=blogger)](https://msa-iqbal.blogspot.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/msaiqs)
+  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/spnkhn)
+  [![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=social&logo=flickr)](https://www.flickr.com/photos/spnkhn)
+  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=social&logo=behance)](https://www.behance.net/msa-iqbal)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@Spn-khan/videos)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/msa.iqs/)
+
 </div>
 
 ###
