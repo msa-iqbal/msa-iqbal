@@ -154,7 +154,7 @@ As I believe,
   <br>
 
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=social&logo=stackoverflow)](https://stackoverflow.com/users/28065117/muhammad-s-a-iqbal)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode)](https://leetcode.com/u/msa-iqbal/)
+  <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode)](https://leetcode.com/u/msa-iqbal/) -->
   [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=social&logo=blogger)](https://msa-iqbal.blogspot.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/msaiqs)
   [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/spnkhn)
