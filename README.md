@@ -108,9 +108,9 @@ Coding Tools I Rely On ››
 💬 Ask me about: React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API development.  
 🤝 Open to work and employment opportunities (remote or relocation).  
 🧠 Currently diving into new technologies — I believe every day is a learning opportunity.  
-📧 Reach me at: **<iqbal36940@gmail.com>**
+📧 Reach me at: **<sayhi.iqbal@gmail.com>**
 
-📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com/) <br>
+📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com) <br>
 ⚡ Fun fact: I love photography, gaming, movies, singing, and exploring new places on my motorcycle. <br>
 😄 Pronouns: He / Him (but always happy to vibe with happy people!)
 
@@ -128,7 +128,7 @@ Coding Tools I Rely On ››
 - ✒️ **Adobe Illustrator** – Precision in vector design
 - 📈 **SEO PowerSuite** – Monitoring SEO performance
 - 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO
-- 💡 **Terminal with Oh My Zsh** – Supercharged CLI on macOS & Pop!_OS
+- 💡 **Terminal with Oh My Zsh** – Supercharged CLI on macOS & Linux Mint OS
 
 ###
 
@@ -148,27 +148,6 @@ As I believe,
 
 ###
 
-<div align="center">
-  
-  [![Connect with me](https://img.shields.io/badge/Connect%20with%20me-Socials-000?style=for-the-badge&logo=github)](https://msa_iqbal.bio.link)
-  <br>
-
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=social&logo=stackoverflow)](https://stackoverflow.com/users/28065117/muhammad-s-a-iqbal)
-  <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode)](https://leetcode.com/u/msa-iqbal/) -->
-  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=social&logo=blogger)](https://msa-iqbal.blogspot.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/msaiqs)
-  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/spnkhn)
-  [![Flickr](https://img.shields.io/badge/Flickr-FF0084?style=social&logo=flickr)](https://www.flickr.com/photos/spnkhn)
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?style=social&logo=behance)](https://www.behance.net/msa-iqbal)
-
-  <!--
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/) 
-  -->
-
-</div>
-
-###
 <!-- Page Views (Counting since 20th November, 2025): -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/msa-iqbal/count.svg?"  />
