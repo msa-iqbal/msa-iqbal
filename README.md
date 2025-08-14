@@ -109,7 +109,7 @@ Tools and Platforms:
 
 <!-- ===== Extra Activities ===== -->
 
-<h5 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> A Bit More About Me</h5>
+<h5 align="center">A Bit More About Me</h5>
 
 <h4 align="center">
 🕹️ Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🎵 Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📚 Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ✈️ Thrill-seeking traveler
@@ -122,7 +122,7 @@ Tools and Platforms:
 🤝 Always open to connecting with creative minds and collaborating on innovative ideas. <br>
 🧠 Currently diving into new technologies — I believe every day is a learning opportunity. <br>
 📧 Reach me at: **<sayhi.iqbal@gmail.com>** <br>
-📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com) <br>
+📝 Read my thoughts and tutorials on [my blog](https://tinsights.hashnode.dev) <br>
 ⚡ Fun fact: I love photography, gaming, movies, singing, and exploring new places on my motorcycle. <br>
 😄 Pronouns: He / Him (but always happy to vibe with happy people!)
 
