@@ -111,7 +111,14 @@ Tools and Platforms:
 
 <!-- ===== Extra Activities ===== -->
 
-<h2 align="center">A Bit More About Me</h2>
+<h4 align="center">A Bit More About Me 👋</h4>
+
+<h4 align="center" style="background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  A Bit More About Me 👋
+</h4>
+
+##
+
 <h4 align="center">
 🕹️ Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🎵 Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📚 Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ✈️ Thrill-seeking traveler
 </h4>
@@ -171,11 +178,6 @@ As I believe,
 
 <br><br>
 
-<!-- ===== Thanks Message ===== -->
+<!-- ===== Thanks Message | The End ===== -->
 
 <p align="center">Thanks for stopping by! ❤️ <br>Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
-
-<!-- Page Views (Counting since 20th November, 2025): -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/msa-iqbal/count.svg?"  />
-</div>
