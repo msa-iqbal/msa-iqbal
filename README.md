@@ -117,7 +117,7 @@ Tools and Platforms:
 
 #### I love to read books and listen to music
 
-♥️ I love programming and enjoy sharing what I learn. <br>
+☕ I love programming and enjoy sharing what I learn. <br>
 💻 Most-used line of code: `console.log("hello world")` <br>
 🤝 Always open to connecting with creative minds and collaborating on innovative ideas. <br>
 🧠 Currently diving into new technologies — I believe every day is a learning opportunity. <br>
