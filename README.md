@@ -74,6 +74,7 @@ Tools and Platforms:
 </p>
 
 <!-- ===== GitHub Activities ===== -->
+
 <details>
 <summary> <strong>⚙️ GitHub Stats & Analytics</strong></summary>
 
@@ -87,6 +88,7 @@ Tools and Platforms:
 </details>
 
 <!-- ===== GitHub Trophies ===== -->
+
 <details>
 <summary> <strong>⚙️ GitHub Trophies</strong></summary>
 <br>
@@ -96,6 +98,7 @@ Tools and Platforms:
 </details>
 
 <!-- ===== Top Contributed Repo ===== -->
+
 <details>
 <summary> <strong>⚙️ Top Contributed Repo</strong></summary>
 <br>
@@ -106,42 +109,57 @@ Tools and Platforms:
 
 <br>
 
-<h2 align="center">A Bit More About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32"></h2>
+<!-- ===== Extra Activities ===== -->
+
+<h2 align="center">A Bit More About Me</h2>
 <h4 align="center">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa83/512.gif" alt="🪃" width="25" height="25"> Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3bb/512.gif" alt="🎻" width="25" height="25"> Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.gif" alt="🪄" width="25" height="25"> Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26f5/512.gif" alt="⛵" width="25" height="25"> Thrill-seeking traveler
+🕹️ Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🎵 Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📚 Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ✈️ Thrill-seeking traveler
 </h4>
 
 #### I love to read books and listen to music
 
-♥️ I love programming and enjoy sharing what I learn.  
-💻 Most-used line of code: `console.log("hello world")`  
-🤝 Always open to connecting with creative minds and collaborating on innovative ideas.  
-💬 Ask me about: React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API development.  
-🤝 Open to work and employment opportunities (remote or relocation).  
-🧠 Currently diving into new technologies — I believe every day is a learning opportunity.  
-📧 Reach me at: **<sayhi.iqbal@gmail.com>**
-
+♥️ I love programming and enjoy sharing what I learn. <br>
+💻 Most-used line of code: `console.log("hello world")` <br>
+🤝 Always open to connecting with creative minds and collaborating on innovative ideas. <br>
+🧠 Currently diving into new technologies — I believe every day is a learning opportunity. <br>
+📧 Reach me at: **<sayhi.iqbal@gmail.com>** <br>
 📝 Read my thoughts and tutorials on [my blog](https://msa-iqbal.blogspot.com) <br>
 ⚡ Fun fact: I love photography, gaming, movies, singing, and exploring new places on my motorcycle. <br>
 😄 Pronouns: He / Him (but always happy to vibe with happy people!)
 
-[![Flickr](https://img.shields.io/badge/Flickr-Photostream-blue?logo=flickr)](https://www.flickr.com/photos/spnkhn/)
+[![500px](https://img.shields.io/badge/500px-Photostream-5F17E1?logo=500px)](https://500px.com/p/msaiq)
+[![Unsplash](https://img.shields.io/badge/Unsplash-Photostream-76C9E5?logo=unsplash)](https://unsplash.com/@msaiq)
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="15" height="15"> My Daily Toolkit
+<!-- ===== Daily Toolkit ===== -->
 
-- 💻 **Visual Studio Code** – For all things code
-- 🔬 **Postman** – API testing made easy
-- 🍃 **MongoDB Compass** – Exploring my NoSQL data visually
-- 📝 **Markdown Editors** – Writing clean, simple docs
-- 🎧 **Spotify** – Keeping the dev rhythm going
-- 🐳 **Docker** – Building containerized environments
-- 🎨 **Adobe Photoshop** – For stunning graphics
-- ✒️ **Adobe Illustrator** – Precision in vector design
-- 📈 **SEO PowerSuite** – Monitoring SEO performance
-- 🕷️ **Screaming Frog SEO Spider** – Crawling for better SEO
-- 💡 **Terminal with Oh My Zsh** – Supercharged CLI on macOS & Linux Mint OS
+#### My Daily Toolkit
 
-###
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudio&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white&style=flat)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
+![SEO PowerSuite](https://img.shields.io/badge/-SEO%20PowerSuite-0055A5?logoColor=white&style=flat)
+![Screaming Frog SEO Spider](https://img.shields.io/badge/-Screaming%20Frog-5DB95D?logoColor=white&style=flat)
+![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat)
+![Linux Mint OS](https://img.shields.io/badge/-Linux%20Mint-87CF4F?logo=linuxmint&logoColor=white&style=flat)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![Cloudflare WARP](https://img.shields.io/badge/-Cloudflare%20WARP-F38020?logo=cloudflare&logoColor=white&style=flat)
+![Picasa](https://img.shields.io/badge/-Picasa-0058A6?logo=picasa&logoColor=white&style=flat)
+![Todoist](https://img.shields.io/badge/-Todoist-FF5252?logo=todoist&logoColor=white&style=flat)
+![Darktable](https://img.shields.io/badge/-Darktable-000000?logo=darktable&logoColor=white&style=flat)
+![Thunderbird](https://img.shields.io/badge/-Thunderbird-005FFF?logo=thunderbird&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![VSCodium](https://img.shields.io/badge/-VSCodium-0069AB?logo=VSCodium&logoColor=white&style=flat)
+![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat)
+![Mozilla Developer Editor](https://img.shields.io/badge/-Mozilla%20Dev%20Editor-FF7139?logo=mozilla&logoColor=white&style=flat)
+
+<br>
+
+<!-- ===== Self Quotes ===== -->
 
 <blockquote cite="https://msa-iqbal.blogspot.com/">
 As I believe,
@@ -151,17 +169,13 @@ As I believe,
 </div>
 </blockquote>
 
-###
-
 <br><br>
 
-<p align="center">Thanks for stopping by! Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
+<!-- ===== Thanks Message ===== -->
 
-###
+<p align="center">Thanks for stopping by! ❤️ <br>Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
 
 <!-- Page Views (Counting since 20th November, 2025): -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/msa-iqbal/count.svg?"  />
 </div>
-
-###

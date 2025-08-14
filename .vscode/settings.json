@@ -1,5 +1,9 @@
 {
   "markdownlint.config": {
-    "MD033": false
-  }
+    "MD033": false,
+    "MD045": false,
+    "MD036": false,
+    "MD042": false
+  },
+  "cSpell.words": ["srcset"]
 }
