@@ -107,21 +107,15 @@ Tools and Platforms:
 </div>
 </details>
 
-<br>
-
 <!-- ===== Extra Activities ===== -->
 
-<h4 align="center">A Bit More About Me 👋</h4>
-
-<h4 align="center" style="background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  A Bit More About Me 👋
-</h4>
+<h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> A Bit More About Me</h4>
 
 ##
 
-<h4 align="center">
+<h5 align="center">
 🕹️ Gamer at heart &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🎵 Music lover &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 📚 Book enthusiast &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp ✈️ Thrill-seeking traveler
-</h4>
+</h5>
 
 #### I love to read books and listen to music
 
@@ -180,4 +174,4 @@ As I believe,
 
 <!-- ===== Thanks Message | The End ===== -->
 
-<p align="center">Thanks for stopping by! ❤️ <br>Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
+<p align="center">Thanks for stopping by! ❤️ <br> Feel free to explore my repositories and connect if you'd like to collaborate ✨</p>
