@@ -1,6 +1,10 @@
+<!--  ===== Title Section ===== -->
+
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/msa-iqbal" target="_blank">Muhammad S.A. Iqbal</a> </h1>
 
 ###
+
+<!-- ===== Header Section ===== -->
 
 <p align="center">
   <a href="https://mqs.vercel.app" target="_blank">Portfolios</a> —
@@ -13,7 +17,9 @@
 
 ---
 
-ⵌ **About Me —** <img src="./assets/profile.png" min-width="250px" max-width="250px" width="300px" align="right">
+<!-- ===== Biography and Skills ===== -->
+
+**About Me —** <img src="./assets/profile.png" min-width="250px" max-width="250px" width="300px" align="right">
 Web Developer | Software Architect <br>
 
 ⵌ Check my — <a href="https://mqs.vercel.app" target="_blank">Website</a> or <a href="https://tinsights.hashnode.dev/newsletter" target="_blank">Newsletter</a><br>
@@ -47,9 +53,7 @@ Tools and Platforms:
 
 💬 Ask me about SEO/Web Development<br>
 
-###
-
-<br>
+<!--  ===== Contribution Activities ===== -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msa-iqbal/msa-iqbal/output/pacman-contribution-graph-dark.svg">
@@ -57,19 +61,34 @@ Tools and Platforms:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msa-iqbal/msa-iqbal/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<!-- ===== Animated Text ===== -->
 
+<p align="center">
+  <a href="https://mqs.vercel.app" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A75BF7&width=435&lines=Fueled+by+curiosity%2C+powered+by+code;Keep+Smiling.+Stay+Focused.+%F0%9F%99%82"
+      alt="Iqbal Quotes"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+</p>
+
+<!-- ===== GitHub Activities ===== -->
 <details>
-<summary> <strong>You wanna know more about me? </strong></summary>
+<summary> <strong>⚙️ GitHub Stats & Analytics</strong></summary>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=msa-iqbal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msa-iqbal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=50&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=msa-iqbal&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=msa-iqbal&theme=aura&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msa-iqbal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 </details>
+
+<details>
+<summary> <strong>⚙️ GitHub Analytics</strong></summary>
+
 <br>
 
 <h2 align="center">A Bit More About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32"></h2>
