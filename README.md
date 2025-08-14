@@ -22,115 +22,36 @@ Web Developer | Software Architect <br>
 
 **Coding Tools I Rely On ››** <br>
 
-<p
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 5px;
-    margin-bottom: 2px;
-  "
->
-  <span style="font-size: 15;">Languages:</span>
-  <img
-    src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"
-  />
-</p>
-
-<p
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 5px;
-    margin-bottom: 2px;
-  "
->
-  <span style="font-size: 15px;"
-    >Frameworks & Libraries:</span
-  >
-  <img
-    src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat"
-  />
-</p>
-
-<p
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 5px;
-    margin-bottom: 2px;
-  "
->
-  <span style="font-size: 15px;">Databases:</span>
-  <img
-    src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"
-  />
-</p>
-
-<p
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 5px;
-    margin-bottom: 2px;
-  "
->
-  <span style="font-size: 15px; ">Tools & Platforms:</span>
-  <img
-    src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat"
-  />
-  <img
-    src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat"
-  />
-</p>
-
-###
+Languages:
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;<br>
+Frameworks and Libraries:
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat">&nbsp;<br>
+Database:
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;<br>
+Tools and Platforms:
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
+<br><br>
 
 <p align="left">I enjoy writing clean, efficient code, crafting intuitive user experiences, and solving real-world problems through technology. <strong>Currently, I'm open to work and employment opportunities.</strong></p>
 
 💬 Ask me about SEO/Web Development<br>
 
 <p>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
+
+###
+
 <br>
 
 <picture>
