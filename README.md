@@ -40,15 +40,12 @@ Tools and Platforms:
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
 <br><br>
 
 <p align="left">I enjoy writing clean, efficient code, crafting intuitive user experiences, and solving real-world problems through technology. <strong>Currently, I'm open to work and employment opportunities.</strong></p>
 
 💬 Ask me about SEO/Web Development<br>
-
-<p>I have a huge love for React.js, Next.js, TailwindCSS, RDBMS, NoSQL, and API-driven architectures.</p>
 
 ###
 
