@@ -86,8 +86,23 @@ Tools and Platforms:
 </div>
 </details>
 
+<!-- ===== GitHub Trophies ===== -->
 <details>
-<summary> <strong>⚙️ GitHub Analytics</strong></summary>
+<summary> <strong>⚙️ GitHub Trophies</strong></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=msa-iqbal&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+</details>
+
+<!-- ===== Top Contributed Repo ===== -->
+<details>
+<summary> <strong>⚙️ Top Contributed Repo</strong></summary>
+<br>
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=msa-iqbal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</div>
+</details>
 
 <br>
 
