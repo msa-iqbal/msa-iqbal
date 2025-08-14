@@ -13,7 +13,7 @@
 
 ---
 
-ⵌ **About Me —** <img src="./assets/profile.png" min-width="300px" max-width="300px" width="350px" align="right">
+ⵌ **About Me —** <img src="./assets/profile.png" min-width="250px" max-width="250px" width="300px" align="right">
 Web Developer | Software Architect <br>
 
 ⵌ Check my — <a href="https://mqs.vercel.app" target="_blank">Website</a> or <a href="https://tinsights.hashnode.dev/newsletter" target="_blank">Newsletter</a><br>
