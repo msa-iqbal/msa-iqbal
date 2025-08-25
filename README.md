@@ -111,16 +111,16 @@ Tools and Platforms:
 
 <details>
  <summary>
-<strong>📝 Curated Articles & Hands-On Learning</strong></summary><br>
+<strong>📚 Curated Articles & Hands-On Learning</strong></summary><br>
 
-<p>✨ <a href="https://github.com/msa-iqbal/hands-on-html5" target="_blank">Hands-on HTML5</a><br>
-✨ <a href="https://github.com/msa-iqbal/hands-on-markdown" target="_blank">Hands-on Markdown</a><br>
-✨ <a href="https://github.com/msa-iqbal/hands-on-c" target="_blank">Hands-on C</a><br>
-✨ <a href="https://github.com/msa-iqbal/hands-on-c-plus-plus" target="_blank">Hands-on C++</a><br>
+<p>🕮 <a href="https://github.com/msa-iqbal/hands-on-html5" target="_blank">Hands-on HTML5</a><br>
+🕮 <a href="https://github.com/msa-iqbal/hands-on-markdown" target="_blank">Hands-on Markdown</a><br>
+🕮 <a href="https://github.com/msa-iqbal/hands-on-c" target="_blank">Hands-on C</a><br>
+🕮 <a href="https://github.com/msa-iqbal/hands-on-c-plus-plus" target="_blank">Hands-on C++</a><br>
 </p>
 
-<p>✦ <a href="https://github.com/msa-iqbal/c-code-solutions" target="_blank">C Code Solutions</a><br>
-✦ <a href="https://github.com/msa-iqbal/c-plus-plus-code-solutions" target="_blank">C++ Code Solutions</a><br>
+<p>🗁 <a href="https://github.com/msa-iqbal/c-code-solutions" target="_blank">C Code Solutions</a><br>
+🗁 <a href="https://github.com/msa-iqbal/c-plus-plus-code-solutions" target="_blank">C++ Code Solutions</a><br>
 </p>
 
 </details>
@@ -130,9 +130,9 @@ Tools and Platforms:
 <details>
 <summary> <strong>🌱 Projects & Activities</strong></summary><br>
 
-<p>🌟 <a href="https://github.com/msa-iqbal/user-authentication-api" target="_blank">User Authentication API</a><br>
-🌟 <a href="https://github.com/msa-iqbal/restful-api-with-auth-and-data" target="_blank">RESTful API with Authentication and Data Management</a><br>
-🌟 <a href="https://github.com/msa-iqbal/restful-api-with-express-mongo" target="_blank">Todo App API with Express and MongoDB</a><br>
+<p>🖳 <a href="https://github.com/msa-iqbal/user-authentication-api" target="_blank">User Authentication API</a><br>
+🖳 <a href="https://github.com/msa-iqbal/restful-api-with-auth-and-data" target="_blank">RESTful API with Authentication and Data Management</a><br>
+🖳 <a href="https://github.com/msa-iqbal/restful-api-with-express-mongo" target="_blank">Todo App API with Express and MongoDB</a><br>
 </p>
 
 </details>
