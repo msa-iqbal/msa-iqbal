@@ -73,10 +73,10 @@ Tools and Platforms:
   </a>
 </p>
 
-<!-- ===== GitHub Activities ===== -->
+<!-- ===== GitHub Stats & Analytics ===== -->
 
 <details>
-<summary> <strong>⚙️ GitHub Stats & Analytics</strong></summary>
+<summary> <strong>📈 GitHub Stats & Analytics</strong></summary>
 
 <br>
 
@@ -90,7 +90,7 @@ Tools and Platforms:
 <!-- ===== GitHub Trophies ===== -->
 
 <details>
-<summary> <strong>⚙️ GitHub Trophies</strong></summary>
+<summary> <strong>🏆 GitHub Trophies</strong></summary>
 <br>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=msa-iqbal&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
@@ -105,6 +105,36 @@ Tools and Platforms:
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=msa-iqbal&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
+</details>
+
+<!-- ===== Curated Articles ===== -->
+
+<details>
+ <summary>
+<strong>📝 Curated Articles & Hands-On Learning</strong></summary><br>
+
+<p>✨ <a href="https://github.com/msa-iqbal/hands-on-html5" target="_blank">Hands-on HTML5</a><br>
+✨ <a href="https://github.com/msa-iqbal/hands-on-markdown" target="_blank">Hands-on Markdown</a><br>
+✨ <a href="https://github.com/msa-iqbal/hands-on-c" target="_blank">Hands-on C</a><br>
+✨ <a href="https://github.com/msa-iqbal/hands-on-c-plus-plus" target="_blank">Hands-on C++</a><br>
+</p>
+
+<p>✦ <a href="https://github.com/msa-iqbal/c-code-solutions" target="_blank">C Code Solutions</a><br>
+✦ <a href="https://github.com/msa-iqbal/c-plus-plus-code-solutions" target="_blank">C++ Code Solutions</a><br>
+</p>
+
+</details>
+
+<!-- ===== Recent Projects/ Activity ===== -->
+
+<details>
+<summary> <strong>🌱 Projects & Activities</strong></summary><br>
+
+<p>🌟 <a href="https://github.com/msa-iqbal/user-authentication-api" target="_blank">User Authentication API</a><br>
+🌟 <a href="https://github.com/msa-iqbal/restful-api-with-auth-and-data" target="_blank">RESTful API with Authentication and Data Management</a><br>
+🌟 <a href="https://github.com/msa-iqbal/restful-api-with-express-mongo" target="_blank">Todo App API with Express and MongoDB</a><br>
+</p>
+
 </details>
 
 <!-- ===== Extra Activities ===== -->
@@ -137,6 +167,7 @@ Tools and Platforms:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white&style=flat)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
@@ -152,7 +183,7 @@ Tools and Platforms:
 ![Darktable](https://img.shields.io/badge/-Darktable-000000?logo=darktable&logoColor=white&style=flat)
 ![Thunderbird](https://img.shields.io/badge/-Thunderbird-005FFF?logo=thunderbird&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![VSCodium](https://img.shields.io/badge/-VSCodium-0069AB?logo=VSCodium&logoColor=white&style=flat)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublimetext&logoColor=white&style=flat)
 ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat)
 ![Mozilla Developer Editor](https://img.shields.io/badge/-Mozilla%20Dev%20Editor-FF7139?logo=mozilla&logoColor=white&style=flat)
 
